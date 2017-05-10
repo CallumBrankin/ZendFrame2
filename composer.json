@@ -9,7 +9,6 @@
     "homepage": "http://framework.zend.com/",
     "require": {
         "php": ">=5.5",
-        "zendframework/zendframework": "~2.5",
-        "pixelpinplugins/pixelpin-auth": "^1.0"
+        "zendframework/zendframework": "2.5.3"
     }
 }
